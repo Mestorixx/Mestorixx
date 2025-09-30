@@ -13,7 +13,7 @@
       <button type="button">Telegram</button>
     </a>
 
-[![Mestorixx GitHub stats](https://github-readme-stats.vercel.app/api?username=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+![Mestorixx GitHub stats](https://github-readme-stats.vercel.app/api?username=mestorixx&show_icons=true&theme=graywhite)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mestorixx)
 ![wallpaper](https://github.com/Mestorixx/Mestorixx/blob/main/5f025d1f9ce85ec4cb4c2ff7fa020118.jpg)
