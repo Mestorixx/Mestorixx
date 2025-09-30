@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/mestorixx" target="_blank">Mestorixx</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Student who learn Python, radio and computer science 🤍💙💓</h3>
+<h3 align="center">Student who learns Python, radio and computer science 🤍💙💓</h3>
 
 <h3 align="center">LIVE IN NOVOSIBIRSK💚💙🤍</h3>
 
@@ -18,3 +18,4 @@
     </p>
 
 ![wallpaper](https://github.com/Mestorixx/Mestorixx/blob/main/5f025d1f9ce85ec4cb4c2ff7fa020118.jpg)
+
