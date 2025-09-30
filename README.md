@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/mestorixx" target="_blank">Mestorixx</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">Student who learn Python, radio and computer science 🤍💙💓</h3>
+<h3 align="center">Student who learns Python, radio and computer science 🤍💙💓</h3>
 
 <h3 align="center">LIVE IN NOVOSIBIRSK💚💙🤍</h3>
 
@@ -16,5 +16,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" href='https://www.linux.org/' alt="linux" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" href='https://www.python.org' alt="python" width="40" height="40">
     </p>
+
 
 ![wallpaper](https://github.com/Mestorixx/Mestorixx/blob/main/5f025d1f9ce85ec4cb4c2ff7fa020118.jpg)
