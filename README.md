@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Mestorixx</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student what learn Python, radio and computer science 🤍💙💓</h3>
+<h3 align="center">Student who learn Python, radio and computer science 🤍💙💓</h3>
 
-<h3 align="center">LIVE ON NOVOSIBIRSK💚💙🤍</h3>
+<h3 align="center">LIVE IN NOVOSIBIRSK💚💙🤍</h3>
 
 
  </a> <h3 align="center"> ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white) <a href="https://www.vivaldi.com" target="_blank">
