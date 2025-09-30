@@ -7,9 +7,7 @@
 
  ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white) <a href="https://www.vivaldi.com" target="_blank">
       <button type="button">Vivaldi</button>
-    </a>
-
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) <a href="https://t.me/mestorixx" target="_blank">
+    </a> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) <a href="https://t.me/mestorixx" target="_blank">
       <button type="button">Telegram</button>
     </a>
 
