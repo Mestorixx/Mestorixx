@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Mestorixx</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Student what learn Python, radio and computer science 🤍💙💓</h3>
 
-<!--
-**Mestorixx/Mestorixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌍  I'm based in Novosibirsk
+* ✉️  You can contact me at [@mestorixx](mailto:@mestorixx)
 
-Here are some ideas to get you started:
+ ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white) <a href="https://www.vivaldi.com" target="_blank">
+      <button type="button">Vivaldi</button>
+    </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) <a href="https://t.me/mestorixx" target="_blank">
+      <button type="button">Telegram</button>
+    </a>
+
+![Profile views](https://komarev.com/ghpvc/?username=Mestorixx)
+
+    
+
+
