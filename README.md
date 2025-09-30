@@ -5,16 +5,16 @@
 <h3 align="center">LIVE IN NOVOSIBIRSK💚💙🤍</h3>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" href='https://www.vivaldi.com'>
- <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' href='https://t.me/mestorixx'>
+    <a href='https://www.vivaldi.com'><img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white"></a>
+    <a href='https://t.me/mestorixx'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'></a>
     </p>
 
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" href='https://www.gnu.org/software/bash/' alt="bash" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" href='https://www.linux.org/' alt="linux" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" href='https://www.python.org' alt="python" width="40" height="40">
+    <a href='https://www.gnu.org/software/bash/'><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"></a>
+    <a href='https://www.linux.org/'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a>
+    <a href='https://www.python.org'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>
     </p>
 
 ![wallpaper](https://github.com/Mestorixx/Mestorixx/blob/main/5f025d1f9ce85ec4cb4c2ff7fa020118.jpg)
