@@ -17,5 +17,6 @@
     <a href='https://www.python.org'><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>
     </p>
 
-![wallpaper](https://github.com/Mestorixx/Mestorixx/blob/main/5f025d1f9ce85ec4cb4c2ff7fa020118.jpg)
+![wallpaper](https://github.com/Mestorixx/Mestorixx/blob/main/GX8JBy-WQAELdJD_1.jpeg)
+
 
