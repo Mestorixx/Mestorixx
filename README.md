@@ -18,7 +18,8 @@
     </p>
 
 ![wallpaper](https://github.com/Mestorixx/Mestorixx/blob/main/GX8JBy-WQAELdJD_1.jpeg)
-**Arts made by: @sh_4rk (on Twittier (X))**
+**Arts made by: @sh_4rk (on Twitter (X))**
+
 
 
 
